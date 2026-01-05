@@ -1,5 +1,8 @@
 # 💫 About Me:
-full stack Projects , rest api building 
+**Building Full Stack Projects**
+**Building Rest apis**
+**Exploring New Technolgies**
+**Solving Dsa Problems**
 
 
 ## 🌐 Socials:
