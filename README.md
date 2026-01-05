@@ -1,7 +1,7 @@
 # 💫 About Me:
-**Building Full Stack Projects**
-**Building Rest apis**
-**Exploring New Technolgies**
+**Building Full Stack Projects** <br/>
+**Building Rest apis**<br/>
+**Exploring New Technolgies**<br/>
 **Solving Dsa Problems**
 
 
