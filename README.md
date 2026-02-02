@@ -168,12 +168,7 @@ const developer = {
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
-|:-----------|:---------------|:---------------|
-| **E-Commerce Platform** | Full-featured online shopping platform with payment integration | React, Node.js, MongoDB, Stripe |
-| **Real-time Chat Application** | Scalable chat app with WebSocket support | React, Socket.io, Express, Redis |
-| **AI Image Recognition** | ML-powered image classification system | Python, TensorFlow, FastAPI, OpenCV |
-| **Task Management API** | RESTful API with authentication & authorization | Node.js, JWT, PostgreSQL, Docker |
+# Checkout My Portfolio To visit All Projects : `https://portfolio-p1zu.onrender.com/`
 
 </div>
 
