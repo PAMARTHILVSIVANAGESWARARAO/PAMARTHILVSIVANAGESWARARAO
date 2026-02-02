@@ -147,8 +147,9 @@ const developer = {
 </tr>
 </table>
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMARTHILVSIVANAGESWARARAO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="70%" />
-
+-->
 </div>
 
 ---
@@ -156,9 +157,9 @@ const developer = {
 ## 🏆 Achievements
 
 <div align="center">
-
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=PAMARTHILVSIVANAGESWARARAO&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
+-->
 </div>
 
 ---
