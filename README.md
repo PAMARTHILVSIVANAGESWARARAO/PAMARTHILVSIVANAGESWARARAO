@@ -134,12 +134,12 @@ const developer = {
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="0%">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=PAMARTHILVSIVANAGESWARARAO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" /> -->
 
 </td>
-<td width="50%">
+<td width="100%">
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=PAMARTHILVSIVANAGESWARARAO&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 
