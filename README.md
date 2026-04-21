@@ -1,7 +1,18 @@
-<div align="center" style="background-color:"#341539">
+<div align="center">
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=PAMARTHI%20SIVA%20NAGU&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- Lavishly Yours Font Signature via Google Fonts rendered as image -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Lavishly+Yours&weight=400&size=52&duration=4000&pause=2000&color=C4B5FD&center=true&vCenter=true&width=600&lines=Siva+Nagu" alt="Siva Nagu signature" />
+
+<!-- Cat Meme Image with dark purple overlay effect -->
+<br/>
+<a href="mailto:pamarthisiva144@gmail.com">
+  <img src="https://i.pinimg.com/1200x/41/a5/3d/41a53dbc04fbdeb09af0e19bc85ab4e1.jpg" width="280px" style="border-radius:20px; border: 3px solid #7C3AED; filter: sepia(0.3) hue-rotate(230deg) saturate(1.5) brightness(0.85);" alt="text me" />
+</a>
+
+<br/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Full-Stack+Applications;🔮+Crafting+Robust+RESTful+APIs;🧠+Machine+Learning+%26+AI+Solutions;⚡+8.27+CGPA+at+Sri+Vasavi+Engineering+College;💡+2nd+Prize+CSE+Hackathon+Winner" alt="Typing SVG" />
@@ -141,65 +152,19 @@ const sivanagu = {
 
 <div align="center">
 
-> 🌐 **All projects live at → [portfolio-p1zu.onrender.com](https://portfolio-p1zu.onrender.com/)**
+> 🌐 **All projects → [portfolio-p1zu.onrender.com](https://portfolio-p1zu.onrender.com/)**
+
+| # | Project | Tech Stack | Description | Link |
+|:---:|:---|:---|:---|:---:|
+| 🎮 | **Number Guessing Game** | React · Flask · MongoDB · JWT | Full-stack game with authentication, leaderboard & AI-powered hints | [▶ Live](https://numberguessingversion2-1.onrender.com/) |
+| 🛍️ | **Anime Street Style** | React · Vite · Tailwind · Bootstrap | Anime-inspired e-commerce with dynamic product APIs & Context API | [▶ Live](https://animestreetstyle.onrender.com/) |
+| ✈️ | **Tourist & Travellism** | React · PHP · MongoDB · Gemini AI | AI travel planner with JWT auth, Gemini trip suggestions & Cloudinary | [▶ Live](https://touristandtravellismfrontendversiontwo.onrender.com/) |
+| 💬 | **Realtime Chat App** | MERN · Socket.io · Zustand · JWT | Production-grade WebSocket chat with media uploads via Cloudinary | [▶ Live](https://chatty-m2s3.onrender.com/) |
+| 🤖 | **AI Voice Assistant** | Python · Gemini API · EEL | Desktop assistant with face auth, speech recognition & GUI | [▶ Demo](https://www.youtube.com/watch?v=ZeyRsR7yOzI) |
+| 🔬 | **Acne Detection (ML)** | Python · Flask · Scikit-learn | ML model classifying mild/moderate/severe acne with Flask web UI | [▶ Live](https://acne-app-detector-using-machine-learning-ye4e.onrender.com/) |
+| 🌟 | **Personal Portfolio** | HTML · CSS · JavaScript | Portfolio with theme switching, animations & integrated email | [▶ Live](https://portfolio-p1zu.onrender.com/) |
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Number Guessing Game
-**Stack:** React · Flask · MongoDB · JWT · AI Hints  
-Full-stack game with authentication, leaderboard system, and AI-powered hint engine.  
-🔗 [Live Demo](https://numberguessingversion2-1.onrender.com/)
-
----
-
-### 🛍️ Anime Street Style E-Commerce
-**Stack:** React · Vite · Context API · Tailwind · Bootstrap  
-Feature-rich e-commerce platform with dynamic product APIs and anime-inspired design.  
-🔗 [Live Demo](https://animestreetstyle.onrender.com/)
-
----
-
-### ✈️ Tourist & Travellism — AI Travel Planner
-**Stack:** React · PHP · MongoDB · Gemini AI · Cloudinary  
-AI-powered travel planning with JWT auth, Gemini trip suggestions, and cloud media storage.  
-🔗 [Live Demo](https://touristandtravellismfrontendversiontwo.onrender.com/)
-
----
-
-### 🔬 Acne Detection (ML)
-**Stack:** Python · Flask · Machine Learning · Web UI  
-ML model classifying mild/moderate/severe acne, deployed with Flask. V2 with AI treatment planned.  
-🔗 [Live Demo](https://acne-app-detector-using-machine-learning-ye4e.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Realtime Chat App
-**Stack:** MERN · Socket.io · JWT · Zustand · Cloudinary  
-Production-grade chat application with WebSocket communication and media uploads.  
-🔗 [Live Demo](https://chatty-m2s3.onrender.com/)
-
----
-
-### 🤖 AI Voice Assistant (Python GUI)
-**Stack:** Python · Gemini API · EEL · Face Auth · Speech Recognition  
-Desktop AI assistant with face authentication, voice commands, and Gemini API integration.  
-📺 [Watch Demo](https://www.youtube.com/watch?v=ZeyRsR7yOzI)
-
----
-
-### 🌟 Personal Portfolio
-**Stack:** HTML · CSS · JavaScript  
-Portfolio with theme switching, smooth animations, and integrated email functionality.  
-🔗 [Live Demo](https://portfolio-p1zu.onrender.com/)
-
-</td>
-</tr>
-</table>
 
 ---
 
