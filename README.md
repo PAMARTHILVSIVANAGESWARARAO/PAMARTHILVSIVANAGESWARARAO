@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:"#341539">
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=PAMARTHI%20SIVA%20NAGU&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva_Nagu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-nagu-5b8279381)
-[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamarthisiva144@gmail.com)](mailto:pamarthisiva144@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-pamarthisiva144-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamarthisiva144@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-p1zu.onrender.com/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-5B21B6?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32143651/siva-028-cm-60)
 [![Phone](https://img.shields.io/badge/📞+91_9381644896-Call_Me-4C1D95?style=for-the-badge)](tel:+919381644896)
