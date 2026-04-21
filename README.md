@@ -1,30 +1,32 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=PAMARTHI%20LEELA%20VENKATA%20SIVA%20NAGESWARARAO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=PAMARTHI%20SIVA%20NAGU&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Lavishly Yours Font Signature via Google Fonts rendered as image -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Lavishly+Yours&weight=400&size=52&duration=4000&pause=2000&color=C4B5FD&center=true&vCenter=true&width=600&lines=Siva+Nagu" alt="Siva Nagu signature" style="margin-top:10px;"/>
+<!-- Lavishly Yours font signature -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Lavishly+Yours&weight=400&size=60&duration=4000&pause=2000&color=C4B5FD&center=true&vCenter=true&width=600&lines=Siva+Nagu" alt="Siva Nagu" />
 
-<!-- Cat Meme Image with dark purple overlay effect -->
 <br/>
+
+<!-- Cat Meme — clickable mailto -->
 <a href="mailto:pamarthisiva144@gmail.com">
-  <img src="https://i.pinimg.com/1200x/41/a5/3d/41a53dbc04fbdeb09af0e19bc85ab4e1.jpg" width="280px" style="border-radius:20px; border: 3px solid #7C3AED; filter: sepia(0.3) hue-rotate(230deg) saturate(1.5) brightness(0.85);" alt="text me" />
+  <img src="https://i.pinimg.com/1200x/41/a5/3d/41a53dbc04fbdeb09af0e19bc85ab4e1.jpg" width="260" alt="text me whenever you get time" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Full-Stack+Applications;🔮+Crafting+Robust+RESTful+APIs;🧠+Machine+Learning+%26+AI+Solutions;⚡+8.27+CGPA+at+Sri+Vasavi+Engineering+College;💡+2nd+Prize+CSE+Hackathon+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=🚀+Building+Scalable+Full-Stack+Applications;🔮+Crafting+Robust+RESTful+APIs;🧠+Machine+Learning+%26+AI+Solutions;⚡+8.27+CGPA+at+Sri+Vasavi+Engineering+College;💡+2nd+Prize+CSE+Hackathon+Winner" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva_Nagu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-nagu-5b8279381)
 [![Gmail](https://img.shields.io/badge/Gmail-pamarthisiva144-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamarthisiva144@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-p1zu.onrender.com/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-5B21B6?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32143651/siva-028-cm-60)
-[![Phone](https://img.shields.io/badge/📞+91_9381644896-Call_Me-4C1D95?style=for-the-badge)](tel:+919381644896)
+[![Instagram](https://img.shields.io/badge/Instagram-sivanagu_origin_1206-4C1D95?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sivanagu_origin_1206)
+[![Phone](https://img.shields.io/badge/📞_+91_9381644896-Call_Me-3B0764?style=for-the-badge)](tel:+919381644896)
 
 <br/>
 
@@ -66,15 +68,15 @@ const sivanagu = {
 
 <div align="center">
 
-| 🥈 Achievement | 📋 Details |
+| 🏅 Achievement | 📋 Details |
 |:---|:---|
-| **CSE Department Hackathon — 2nd Prize** | Led team as Developer & Team Lead on Oct 26, 2024 |
-| **Oracle Cloud Generative AI Professional** | Certified — Aug 14, 2025 |
-| **LeetCode** | 90+ Problems Solved |
-| **GeeksForGeeks** | 800+ Score |
-| **MongoDB Python Developer Path** | Completed — May 14, 2025 |
-| **Kaggle Python Certification** | Completed — Feb 25, 2024 |
-| **Udemy CSS Crash Course** | Completed — Sep 26, 2024 |
+| 🥈 **CSE Department Hackathon — 2nd Prize** | Led team as Developer & Team Lead · Oct 26, 2024 |
+| 🟠 **Oracle Cloud Generative AI Professional** | Certified · Aug 14, 2025 |
+| 💻 **LeetCode** | 90+ Problems Solved |
+| 🟢 **GeeksForGeeks** | 800+ Score |
+| 🍃 **MongoDB Python Developer Path** | Completed · May 14, 2025 |
+| 🐍 **Kaggle Python Certification** | Completed · Feb 25, 2024 |
+| 🎨 **Udemy CSS Crash Course** | Completed · Sep 26, 2024 |
 
 </div>
 
@@ -152,17 +154,17 @@ const sivanagu = {
 
 <div align="center">
 
-> 🌐 **All projects → [portfolio-p1zu.onrender.com](https://portfolio-p1zu.onrender.com/)**
+> 🌐 **Explore all projects → [portfolio-p1zu.onrender.com](https://portfolio-p1zu.onrender.com/)**
 
-| # | Project | Tech Stack | Description | Link |
+| # | 🗂️ Project | 🛠️ Tech Stack | 📝 Description | 🔗 |
 |:---:|:---|:---|:---|:---:|
 | 🎮 | **Number Guessing Game** | React · Flask · MongoDB · JWT | Full-stack game with authentication, leaderboard & AI-powered hints | [▶ Live](https://numberguessingversion2-1.onrender.com/) |
 | 🛍️ | **Anime Street Style** | React · Vite · Tailwind · Bootstrap | Anime-inspired e-commerce with dynamic product APIs & Context API | [▶ Live](https://animestreetstyle.onrender.com/) |
 | ✈️ | **Tourist & Travellism** | React · PHP · MongoDB · Gemini AI | AI travel planner with JWT auth, Gemini trip suggestions & Cloudinary | [▶ Live](https://touristandtravellismfrontendversiontwo.onrender.com/) |
-| 💬 | **Realtime Chat App** | MERN · Socket.io · Zustand · JWT | Production-grade WebSocket chat with media uploads via Cloudinary | [▶ Live](https://chatty-m2s3.onrender.com/) |
+| 💬 | **Realtime Chat App** | MERN · Socket.io · Zustand · JWT | Production-grade WebSocket chat with real-time messaging & media uploads | [▶ Live](https://chatty-m2s3.onrender.com/) |
 | 🤖 | **AI Voice Assistant** | Python · Gemini API · EEL | Desktop assistant with face auth, speech recognition & GUI | [▶ Demo](https://www.youtube.com/watch?v=ZeyRsR7yOzI) |
-| 🔬 | **Acne Detection (ML)** | Python · Flask · Scikit-learn | ML model classifying mild/moderate/severe acne with Flask web UI | [▶ Live](https://acne-app-detector-using-machine-learning-ye4e.onrender.com/) |
-| 🌟 | **Personal Portfolio** | HTML · CSS · JavaScript | Portfolio with theme switching, animations & integrated email | [▶ Live](https://portfolio-p1zu.onrender.com/) |
+| 🔬 | **Acne Detection (ML)** | Python · Flask · Scikit-learn | ML model classifying mild / moderate / severe acne with Flask web UI | [▶ Live](https://acne-app-detector-using-machine-learning-ye4e.onrender.com/) |
+| 🌟 | **Personal Portfolio** | HTML · CSS · JavaScript | Portfolio with theme switching, smooth animations & email integration | [▶ Live](https://portfolio-p1zu.onrender.com/) |
 
 </div>
 
@@ -175,9 +177,7 @@ const sivanagu = {
 <img src="https://nirzak-streak-stats.vercel.app/?user=PAMARTHILVSIVANAGESWARARAO&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=8B5CF6&sideNums=A78BFA&dates=6D28D9" alt="GitHub Streak" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMARTHILVSIVANAGESWARARAO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="48%" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PAMARTHILVSIVANAGESWARARAO&bg_color=0D1117&color=A78BFA&line=7C3AED&point=DDD6FE&area=true&area_color=4C1D95&hide_border=true" alt="Contribution Graph" width="98%" />
 
@@ -189,21 +189,21 @@ const sivanagu = {
 
 ```
 📚 Sri Vasavi Engineering College, Tadepalligudem
-   B.Tech (2024 – 2027)                              CGPA: 8.27 ██████████░ 
-   
+   B.Tech · 2024 – 2027                              CGPA : 8.27   ██████████░
+
 🏫 Sir C R Reddy Polytechnic, Eluru
-   Diploma in CSE (2021 – 2024)                     Score: 73.3% ███████░░░░
+   Diploma in CSE · 2021 – 2024                      Score: 73.3%  ███████░░░░
 
 🏫 Z.P.H.S Kurellagudem
-   SSC (2020 – 2021)                                  GPA: 9.7  █████████░░
+   SSC · 2020 – 2021                                 GPA  : 9.7    █████████░░
 ```
 
 ---
 
 ## 💼 Experience
 
-### 🏢 My Access Private Limited, Bhimavaram
-**Trainee — Python Full Stack Development**  
+### 🏢 My Access Private Limited · Bhimavaram
+**Trainee — Python Full Stack Development**
 `November 2023 – April 2024`
 
 - Completed intensive Python Full Stack training covering frontend, backend, and database fundamentals
