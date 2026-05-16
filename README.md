@@ -174,8 +174,8 @@ const sivanagu = {
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=PAMARTHILVSIVANAGESWARARAO&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=8B5CF6&sideNums=A78BFA&dates=6D28D9" alt="GitHub Streak" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMARTHILVSIVANAGESWARARAO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAMARTHILVSIVANAGESWARARAO&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=8B5CF6&sideNums=A78BFA&dates=6D28D9" alt="GitHub Streak" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMARTHILVSIVANAGESWARARAO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="48%" /> -->
 
 <br/><br/>
 
