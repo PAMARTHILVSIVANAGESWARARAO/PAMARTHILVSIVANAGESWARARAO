@@ -239,5 +239,5 @@ const sivanagu = {
 
 <sub>✨ Crafted with passion by <strong>Siva Nagu</strong> · Kurellgudem, Andhra Pradesh, India 🇮🇳</sub><br/>
 <sub><em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em></sub>
-
+<hr>
 </div>
