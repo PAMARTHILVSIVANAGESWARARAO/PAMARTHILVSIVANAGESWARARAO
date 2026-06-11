@@ -238,6 +238,6 @@ const sivanagu = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=120&section=footer&animation=fadeIn" />
 
 <sub>✨ Crafted with passion by <strong>Siva Nagu</strong> · Kurellgudem, Andhra Pradesh, India 🇮🇳</sub><br/>
-<sub><em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em></sub>
+<sub><em><b>"Code is like humor. When you have to explain it, it's bad."</b> — Cory House</em></sub>
 <hr>
 </div>
