@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=🚀+Building+Scalable+Full-Stack+Applications;🔮+Crafting+Robust+RESTful+APIs;🧠+Machine+Learning+%26+AI+Solutions;⚡+8.27+CGPA+at+Sri+Vasavi+Engineering+College;💡+2nd+Prize+CSE+Hackathon+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=🚀+Building+Scalable+Full-Stack+Applications;🔮+Crafting+Robust+RESTful+APIs;🧠+Machine+Learning+%26+AI+Solutions;⚡+8.18+CGPA+at+Sri+Vasavi+Engineering+College;💡+2nd+Prize+CSE+Hackathon+Winner" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -45,7 +45,7 @@ const sivanagu = {
   name      : "Pamarthi Leela Venkata Siva Nageswararao",
   alias     : "Siva Nagu",
   location  : "Kurellgudem, Andhra Pradesh 🇮🇳",
-  education : "B.Tech @ Sri Vasavi Engineering College (8.27 CGPA)",
+  education : "B.Tech @ Sri Vasavi Engineering College (8.18 CGPA)",
   roles     : ["Full Stack Developer", "API Architect", "ML Engineer"],
   passion   : "Building scalable systems that solve real-world problems",
   status    : "🟢 Open to Full-Time & Freelance Opportunities",
@@ -189,7 +189,7 @@ const sivanagu = {
 
 ```
 📚 Sri Vasavi Engineering College, Tadepalligudem
-   B.Tech · 2024 – 2027                              CGPA : 8.27   ██████████░
+   B.Tech · 2024 – 2027                              CGPA : 8.18   ██████████░
 
 🏫 Sir C R Reddy Polytechnic, Eluru
    Diploma in CSE · 2021 – 2024                      Score: 73.3%  ███████░░░░
