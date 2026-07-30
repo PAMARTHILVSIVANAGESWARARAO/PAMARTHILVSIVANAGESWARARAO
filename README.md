@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PAMARTHILVSIVANAGESWARARAO/PAMARTHILVSIVANAGESWARARAO/main/assets/banner.png" alt="Pamarthi Leela Venkata Siva Nageswararao — Full Stack Web &amp; Mobile Application Development" width="100%" />
+<img src="./Banner.png" width="100%" />
 
 <br/><br/>
 
