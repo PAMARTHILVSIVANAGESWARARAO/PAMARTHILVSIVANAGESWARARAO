@@ -11,7 +11,7 @@
 
 <!-- Cat Meme — clickable mailto -->
 <a href="mailto:pamarthisiva144@gmail.com">
-  <img src="https://i.pinimg.com/1200x/41/a5/3d/41a53dbc04fbdeb09af0e19bc85ab4e1.jpg" width="260" alt="text me whenever you get time" />
+  <img src="./Bannr.png"/>
 </a>
 
 <br/><br/>
