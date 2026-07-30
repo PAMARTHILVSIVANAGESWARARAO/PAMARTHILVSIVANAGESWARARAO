@@ -11,7 +11,7 @@
 
 <!-- Cat Meme — clickable mailto -->
 <a href="mailto:pamarthisiva144@gmail.com">
-  <img src="./Bannr.png"/>
+  <img src="./Banner.png"/>
 </a>
 
 <br/><br/>
