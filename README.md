@@ -242,23 +242,24 @@ Personal site with theme switching, motion-led transitions and integrated contac
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PAMARTHILVSIVANAGESWARARAO&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMARTHILVSIVANAGESWARARAO&layout=compact&theme=midnight-purple&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PAMARTHILVSIVANAGESWARARAO&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PAMARTHILVSIVANAGESWARARAO&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 
 <br><br>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=PAMARTHILVSIVANAGESWARARAO&theme=midnight-purple&hide_border=true" />
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=PAMARTHILVSIVANAGESWARARAO&theme=midnight-purple&hide_border=true&background=0D0417&stroke=7C3AED&ring=A78BFA&fire=C084FC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" alt="GitHub Streak" />
 
 <br><br>
 
 <!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PAMARTHILVSIVANAGESWARARAO&theme=react-dark&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PAMARTHILVSIVANAGESWARARAO&theme=react-dark&hide_border=true&bg_color=0D0417&color=C4B5FD&line=8B5CF6&point=DDD6FE&area=true&area_color=7C3AED" alt="Contribution Graph" />
 
 <br><br>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=PAMARTHILVSIVANAGESWARARAO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=PAMARTHILVSIVANAGESWARARAO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
