@@ -20,12 +20,18 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva_Nagu-2E1065?style=for-the-badge&logo=linkedin&logoColor=D8B4FE)](https://www.linkedin.com/in/siva-nagu-5b8279381)
-[![Gmail](https://img.shields.io/badge/Email-pamarthisiva144-2E1065?style=for-the-badge&logo=gmail&logoColor=D8B4FE)](mailto:pamarthisiva144@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2E1065?style=for-the-badge&logo=vercel&logoColor=D8B4FE)](https://portfolio-p1zu.onrender.com/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-2E1065?style=for-the-badge&logo=stack-overflow&logoColor=D8B4FE)](https://stackoverflow.com/users/32143651/siva-028-cm-60)
-[![Instagram](https://img.shields.io/badge/Instagram-sivanagu__origin__1206-2E1065?style=for-the-badge&logo=instagram&logoColor=D8B4FE)](https://www.instagram.com/sivanagu_origin_1206)
-[![Phone](https://img.shields.io/badge/Call-+91_9381644896-2E1065?style=for-the-badge&logo=whatsapp&logoColor=D8B4FE)](tel:+919381644896)
+<div align="center">
+
+| Platform | Contact | Link |
+|:---|:---|:---:|
+| **LinkedIn** | Siva Nagu | [Profile](https://www.linkedin.com/in/siva-nagu-5b8279381) |
+| **Gmail** | pamarthisiva144@gmail.com | [Email](mailto:pamarthisiva144@gmail.com) |
+| **Portfolio** | Live Website | [Visit](https://portfolio-p1zu.onrender.com/) |
+| **Stack Overflow** | Siva-028-CM-60 | [Profile](https://stackoverflow.com/users/32143651/siva-028-cm-60) |
+| **Instagram** | @sivanagu_origin_1206 | [Follow](https://www.instagram.com/sivanagu_origin_1206) |
+| **Phone** | +91 9381644896 | [Call](tel:+919381644896) |
+
+</div>
 
 <br/>
 
