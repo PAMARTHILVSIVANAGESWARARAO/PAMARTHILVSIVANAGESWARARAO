@@ -1,278 +1,318 @@
 <div align="center">
 
-<a href="mailto:pamarthisiva144@gmail.com">
-  <img src="./Banner.png" width="100%" alt="Siva Nagu — Profile Banner"/>
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Full-Stack+Software+Engineer;RESTful+API+Architect;Machine+Learning+Practitioner;B.Tech+Candidate+%E2%80%94+8.27+CGPA;CSE+Hackathon%2C+2nd+Prize+Winner" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-</div>
-
-<br/>
-
-<h2 align="center"><font color="#7C3AED">☰ Connect</font></h2>
-
-<div align="center">
-
-<div align="center">
-
-| Platform | Contact | Link |
-|:---|:---|:---:|
-| **LinkedIn** | Siva Nagu | [Profile](https://www.linkedin.com/in/siva-nagu-5b8279381) |
-| **Gmail** | pamarthisiva144@gmail.com | [Email](mailto:pamarthisiva144@gmail.com) |
-| **Portfolio** | Live Website | [Visit](https://portfolio-p1zu.onrender.com/) |
-| **Stack Overflow** | Siva-028-CM-60 | [Profile](https://stackoverflow.com/users/32143651/siva-028-cm-60) |
-| **Instagram** | @sivanagu_origin_1206 | [Follow](https://www.instagram.com/sivanagu_origin_1206) |
-| **Phone** | +91 9381644896 | [Call](tel:+919381644896) |
-
-</div>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PAMARTHILVSIVANAGESWARARAO&color=4C1D95&style=for-the-badge&label=PROFILE+VIEWS)
-![LeetCode](https://img.shields.io/badge/LeetCode-90%2B_Problems_Solved-4C1D95?style=for-the-badge&logo=leetcode&logoColor=D8B4FE)
-![GFG](https://img.shields.io/badge/GeeksForGeeks-800%2B_Score-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=D8B4FE)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ About Me</font></h2>
-
-<p align="center" width="100%">
-<font color="#5B21B6">
-I am Pamarthi Leela Venkata Siva Nageswararao, known professionally as Siva Nagu — a Full-Stack Developer and Machine Learning practitioner currently pursuing a B.Tech in Computer Science and Engineering at Sri Vasavi Engineering College, Tadepalligudem, with a CGPA of 8.27. My work centers on designing scalable web applications, building well-structured RESTful APIs, and applying machine learning techniques to solve practical problems. I approach every project with a strong emphasis on clean architecture, maintainability, and measurable results, and I am continually expanding my expertise across modern frontend, backend, and cloud technologies.
-</font>
-</p>
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 🎓 **Currently Studying** | B.Tech, Computer Science & Engineering — Sri Vasavi Engineering College |
-| 📍 **Location** | Kurellgudem, Andhra Pradesh, India |
-| 💼 **Focus Areas** | Full-Stack Development · REST API Architecture · Machine Learning |
-| 🟣 **Availability** | Open to Full-Time and Freelance Opportunities |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ Achievements & Recognition</font></h2>
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| 🥈 CSE Department Hackathon — 2nd Prize | Served as Developer and Team Lead · October 26, 2024 |
-| 🎓 Oracle Cloud Infrastructure Generative AI Professional | Oracle University · August 14, 2025 |
-| 🍃 MongoDB Python Developer Path | MongoDB · May 14, 2025 |
-| 🐍 Python Certification | Kaggle · February 25, 2024 |
-| 🎨 CSS Crash Course for Beginners | Udemy · September 26, 2024 |
-| 💻 LeetCode | 90+ Problems Solved |
-| 🟢 GeeksforGeeks | 800+ Score |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ Technical Proficiencies</font></h2>
-
-<div align="center">
-
-<h4><font color="#8B5CF6">Frontend</font></h4>
-
-![React](https://img.shields.io/badge/React-2E1065?style=flat-square&logo=react&logoColor=D8B4FE)
-![Next.js](https://img.shields.io/badge/Next.js-2E1065?style=flat-square&logo=next.js&logoColor=D8B4FE)
-![React Native](https://img.shields.io/badge/React_Native-2E1065?style=flat-square&logo=react&logoColor=D8B4FE)
-![Redux](https://img.shields.io/badge/Redux-2E1065?style=flat-square&logo=redux&logoColor=D8B4FE)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E1065?style=flat-square&logo=javascript&logoColor=D8B4FE)
-![HTML5](https://img.shields.io/badge/HTML5-2E1065?style=flat-square&logo=html5&logoColor=D8B4FE)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-2E1065?style=flat-square&logo=bootstrap&logoColor=D8B4FE)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-2E1065?style=flat-square&logo=tailwind-css&logoColor=D8B4FE)
-![Three.js](https://img.shields.io/badge/Three.js-2E1065?style=flat-square&logo=three.js&logoColor=D8B4FE)
-![GSAP](https://img.shields.io/badge/GSAP-2E1065?style=flat-square&logo=greensock&logoColor=D8B4FE)
-
-<h4><font color="#8B5CF6">Backend</font></h4>
-
-![Node.js](https://img.shields.io/badge/Node.js-3B0764?style=flat-square&logo=node.js&logoColor=D8B4FE)
-![Express.js](https://img.shields.io/badge/Express.js-3B0764?style=flat-square&logo=express&logoColor=D8B4FE)
-![Python](https://img.shields.io/badge/Python-3B0764?style=flat-square&logo=python&logoColor=D8B4FE)
-![Django](https://img.shields.io/badge/Django-3B0764?style=flat-square&logo=django&logoColor=D8B4FE)
-![FastAPI](https://img.shields.io/badge/FastAPI-3B0764?style=flat-square&logo=fastapi&logoColor=D8B4FE)
-![Flask](https://img.shields.io/badge/Flask-3B0764?style=flat-square&logo=flask&logoColor=D8B4FE)
-![Java](https://img.shields.io/badge/Java-3B0764?style=flat-square&logo=openjdk&logoColor=D8B4FE)
-![Spring](https://img.shields.io/badge/Spring-3B0764?style=flat-square&logo=spring&logoColor=D8B4FE)
-![PHP](https://img.shields.io/badge/PHP-3B0764?style=flat-square&logo=php&logoColor=D8B4FE)
-![Socket.io](https://img.shields.io/badge/Socket.io-3B0764?style=flat-square&logo=socket.io&logoColor=D8B4FE)
-
-<h4><font color="#8B5CF6">Database & Cloud</font></h4>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4C1D95?style=flat-square&logo=mongodb&logoColor=D8B4FE)
-![MySQL](https://img.shields.io/badge/MySQL-4C1D95?style=flat-square&logo=mysql&logoColor=D8B4FE)
-![SQLite](https://img.shields.io/badge/SQLite-4C1D95?style=flat-square&logo=sqlite&logoColor=D8B4FE)
-![Firebase](https://img.shields.io/badge/Firebase-4C1D95?style=flat-square&logo=firebase&logoColor=D8B4FE)
-![AWS](https://img.shields.io/badge/AWS-4C1D95?style=flat-square&logo=amazon-aws&logoColor=D8B4FE)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4C1D95?style=flat-square&logo=google-cloud&logoColor=D8B4FE)
-![Vercel](https://img.shields.io/badge/Vercel-4C1D95?style=flat-square&logo=vercel&logoColor=D8B4FE)
-![Netlify](https://img.shields.io/badge/Netlify-4C1D95?style=flat-square&logo=netlify&logoColor=D8B4FE)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-4C1D95?style=flat-square&logo=cloudinary&logoColor=D8B4FE)
-
-<h4><font color="#8B5CF6">Artificial Intelligence & Data Science</font></h4>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-5B21B6?style=flat-square&logo=tensorflow&logoColor=D8B4FE)
-![PyTorch](https://img.shields.io/badge/PyTorch-5B21B6?style=flat-square&logo=pytorch&logoColor=D8B4FE)
-![Keras](https://img.shields.io/badge/Keras-5B21B6?style=flat-square&logo=keras&logoColor=D8B4FE)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-5B21B6?style=flat-square&logo=scikit-learn&logoColor=D8B4FE)
-![Pandas](https://img.shields.io/badge/Pandas-5B21B6?style=flat-square&logo=pandas&logoColor=D8B4FE)
-![NumPy](https://img.shields.io/badge/NumPy-5B21B6?style=flat-square&logo=numpy&logoColor=D8B4FE)
-![OpenCV](https://img.shields.io/badge/OpenCV-5B21B6?style=flat-square&logo=opencv&logoColor=D8B4FE)
-
-<h4><font color="#8B5CF6">Tools & DevOps</font></h4>
-
-![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=D8B4FE)
-![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=D8B4FE)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6D28D9?style=flat-square&logo=github-actions&logoColor=D8B4FE)
-![Docker](https://img.shields.io/badge/Docker-6D28D9?style=flat-square&logo=docker&logoColor=D8B4FE)
-![Postman](https://img.shields.io/badge/Postman-6D28D9?style=flat-square&logo=postman&logoColor=D8B4FE)
-![JWT](https://img.shields.io/badge/JWT-6D28D9?style=flat-square&logo=json-web-tokens&logoColor=D8B4FE)
-![Apache](https://img.shields.io/badge/Apache-6D28D9?style=flat-square&logo=apache&logoColor=D8B4FE)
-
-<h4><font color="#8B5CF6">Design & Creative</font></h4>
-
-![Photoshop](https://img.shields.io/badge/Photoshop-7C3AED?style=flat-square&logo=adobe-photoshop&logoColor=D8B4FE)
-![Illustrator](https://img.shields.io/badge/Illustrator-7C3AED?style=flat-square&logo=adobe-illustrator&logoColor=D8B4FE)
-![Blender](https://img.shields.io/badge/Blender-7C3AED?style=flat-square&logo=blender&logoColor=D8B4FE)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-7C3AED?style=flat-square&logo=autodesk&logoColor=D8B4FE)
-![Canva](https://img.shields.io/badge/Canva-7C3AED?style=flat-square&logo=canva&logoColor=D8B4FE)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ Featured Projects</font></h2>
-
-<p align="center"><font color="#5B21B6">A curated selection of full-stack, mobile, and machine-learning projects. The complete catalogue is available on my <a href="https://portfolio-p1zu.onrender.com/">portfolio</a>.</font></p>
-
-<div align="center">
-
-| Project | Technology Stack | Overview | Link |
-|:---|:---|:---|:---:|
-| **Number Guessing Game** | React · Flask · MongoDB · JWT | Full-stack game featuring authentication, a leaderboard, and AI-generated hints | [Visit](https://numberguessingversion2-1.onrender.com/) |
-| **Anime Street Style** | React · Vite · Tailwind · Bootstrap | Anime-themed e-commerce platform with dynamic product APIs and Context API state management | [Visit](https://animestreetstyle.onrender.com/) |
-| **Tourist & Travellism** | React · PHP · MongoDB · Gemini AI | AI-assisted travel planner with JWT authentication, Gemini-powered itinerary suggestions, and Cloudinary storage | [Visit](https://touristandtravellismfrontendversiontwo.onrender.com/) |
-| **Realtime Chat Application** | MERN · Socket.io · Zustand · JWT | Production-grade WebSocket chat application supporting real-time messaging and media uploads | [Visit](https://chatty-m2s3.onrender.com/) |
-| **AI Voice Assistant** | Python · Gemini API · EEL | Desktop assistant featuring facial authentication, speech recognition, and a graphical interface | [Watch](https://www.youtube.com/watch?v=ZeyRsR7yOzI) |
-| **Acne Detection (ML)** | Python · Flask · Scikit-learn | Machine learning classifier distinguishing mild, moderate, and severe acne, deployed via a Flask web interface | [Visit](https://acne-app-detector-using-machine-learning-ye4e.onrender.com/) |
-| **Personal Portfolio** | HTML · CSS · JavaScript | Personal portfolio site with theme switching, motion design, and integrated email delivery | [Visit](https://portfolio-p1zu.onrender.com/) |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ GitHub Analytics</font></h2>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAMARTHILVSIVANAGESWARARAO&theme=tokyonight&hide_border=true&background=1E1033&ring=7C3AED&fire=A78BFA&currStreakLabel=D8B4FE&sideNums=A78BFA&dates=6D28D9" alt="GitHub Streak" width="100%"/>
+<img src="https://raw.githubusercontent.com/PAMARTHILVSIVANAGESWARARAO/PAMARTHILVSIVANAGESWARARAO/main/assets/banner.png" alt="Pamarthi Leela Venkata Siva Nageswararao — Full Stack Web &amp; Mobile Application Development" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PAMARTHILVSIVANAGESWARARAO&bg_color=1E1033&color=A78BFA&line=7C3AED&point=D8B4FE&area=true&area_color=4C1D95&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%C2%B7+API+Architect+%C2%B7+ML+Engineer;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+MongoDB+%C2%B7+Cloud;Building+scalable+systems+that+solve+real+problems" alt="Professional summary" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ Education</font></h2>
-
 <div align="center">
 
-| Institution | Program | Duration | Result |
-|:---|:---|:---:|:---:|
-| Sri Vasavi Engineering College, Tadepalligudem | B.Tech, Computer Science & Engineering | 2024 – 2027 | CGPA 8.27 |
-| Sir C R Reddy Polytechnic, Eluru | Diploma in Computer Science & Engineering | 2021 – 2024 | 73.3% |
-| Z.P.H.S Kurellagudem | Secondary School Certificate | 2020 – 2021 | GPA 9.7 |
+`PROFILE — INDEX N° 001` &nbsp;•&nbsp; `KURELLGUDEM, ANDHRA PRADESH — IN`
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ Professional Experience</font></h2>
+---
 
 <div align="center">
 
-**My Access Private Limited**, Bhimavaram
-<br/><em>Trainee — Python Full Stack Development</em>
-<br/>November 2023 – April 2024
+# Pamarthi Leela Venkata Siva Nageswararao
+
+**Full Stack Developer — Andhra Pradesh, India**
+
+`focus` &nbsp;›&nbsp; full-stack systems · API architecture · machine learning · mobile applications
+<br/>
+`status` &nbsp;›&nbsp; open to full-time roles · freelance · collaboration
 
 </div>
 
-<p align="center" width="100%">
-<font color="#5B21B6">
-Completed an intensive training program in Python Full Stack Development, covering frontend engineering, backend architecture, and database fundamentals. Independently developed a Spam Email Detection machine learning model using Scikit-learn, Pandas, and NumPy, and received a course completion certificate following successful project evaluation.
-</font>
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ Current Objectives</font></h2>
-
 <div align="center">
 
-| Objective |
-|:---|
-| Designing production-ready microservices architectures |
-| Deepening expertise in advanced system design patterns |
-| Exploring Web3 and blockchain technologies |
-| Contributing to open-source projects |
-| Open to Full-Stack, API, and Machine Learning engagements |
+<img src="https://komarev.com/ghpvc/?username=PAMARTHILVSIVANAGESWARARAO&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/LeetCode-90%2B_Problems-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 90+ problems solved" />
+<img src="https://img.shields.io/badge/GeeksForGeeks-800%2B_Score-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks 800+ score" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=3&width=900"/>
-
-<h2 align="center"><font color="#7C3AED">☰ Get in Touch</font></h2>
+## `01` &nbsp; SOCIAL LINKS &nbsp;&nbsp;<sub>`~/01-connect`</sub>
 
 <div align="center">
 
-<p><font color="#5B21B6">I welcome conversations regarding collaboration, freelance engagements, and full-time opportunities.</font></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva_Nagu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-nagu-5b8279381)
+[![Gmail](https://img.shields.io/badge/Gmail-pamarthisiva144-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamarthisiva144@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-p1zu.onrender.com/)
+<br/>
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-5B21B6?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32143651/siva-028-cm-60)
+[![Instagram](https://img.shields.io/badge/Instagram-sivanagu__origin__1206-4C1D95?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sivanagu_origin_1206)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_93816_44896-3B0764?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919381644896)
 
-[![Email](https://img.shields.io/badge/Email-pamarthisiva144@gmail.com-2E1065?style=for-the-badge&logoColor=D8B4FE)](mailto:pamarthisiva144@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva_Nagu-2E1065?style=for-the-badge&logoColor=D8B4FE)](https://www.linkedin.com/in/siva-nagu-5b8279381)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-2E1065?style=for-the-badge&logoColor=D8B4FE)](https://portfolio-p1zu.onrender.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-@sivanagu__origin__1206-2E1065?style=for-the-badge&logoColor=D8B4FE)](https://www.instagram.com/sivanagu_origin_1206)
+</div>
+
+---
+
+## `02` &nbsp; ABOUT ME &nbsp;&nbsp;<sub>`~/02-whoami`</sub>
+
+Final-year Computer Science undergraduate at Sri Vasavi Engineering College, building across the
+full stack — React and React Native on the client, Node.js, Flask and Django on the server,
+MongoDB and MySQL underneath. I design APIs that stay predictable under load, and I train and
+deploy machine-learning models that ship inside real products rather than notebooks.
+
+I care about clean architecture and user experience in equal measure.
+
+```typescript
+const sivanagu = {
+  name      : "Pamarthi Leela Venkata Siva Nageswararao",
+  alias     : "Siva Nagu",
+  location  : "Kurellgudem, Andhra Pradesh, India",
+  education : "B.Tech @ Sri Vasavi Engineering College — 8.18 CGPA",
+  roles     : ["Full Stack Developer", "API Architect", "ML Engineer"],
+  passion   : "Building scalable systems that solve real-world problems",
+  status    : "Open to full-time & freelance opportunities",
+
+  expertise : {
+    frontend  : ["React", "Next.js", "React Native", "Three.js", "GSAP"],
+    backend   : ["Node.js", "Flask", "Django", "FastAPI", "Spring"],
+    databases : ["MongoDB", "MySQL", "SQLite", "Firebase"],
+    cloud     : ["AWS", "Google Cloud", "Vercel", "Netlify"],
+    ai_ml     : ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
+  },
+
+  funFact   : "Trained an ML model and won a hackathon in the same month.",
+};
+```
+
+| | |
+|:---|:---|
+| **FOCUS** | Full-Stack Systems · API Architecture · AI / ML · Mobile Applications |
+| **STATUS** | Open to internships · full-time roles · freelance · collaboration |
+| **BASE** | Kurellgudem, Andhra Pradesh, India |
+
+---
+
+## `03` &nbsp; ACHIEVEMENTS & RECOGNITION &nbsp;&nbsp;<sub>`~/03-recognition`</sub>
+
+| Achievement | Details |
+|:---|:---|
+| **CSE Department Hackathon — 2nd Prize** | Developer & Team Lead · 26 October 2024 |
+| **Oracle Cloud Generative AI Professional** | Certified · 14 August 2025 |
+| **LeetCode** | 90+ problems solved |
+| **GeeksForGeeks** | 800+ score |
+| **MongoDB Python Developer Path** | Completed · 14 May 2025 |
+| **Kaggle Python Certification** | Completed · 25 February 2024 |
+| **Udemy CSS Crash Course** | Completed · 26 September 2024 |
+
+---
+
+## `04` &nbsp; TECH ARSENAL &nbsp;&nbsp;<sub>`~/04-stack`</sub>
+
+**FRONTEND**
+
+![React](https://img.shields.io/badge/React-4C1D95?style=flat-square&logo=react&logoColor=A78BFA)
+![Next.js](https://img.shields.io/badge/Next.js-3B0764?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-4C1D95?style=flat-square&logo=react&logoColor=A78BFA)
+![Redux](https://img.shields.io/badge/Redux-5B21B6?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4C1D95?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5B21B6?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-3B0764?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-4C1D95?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-6D28D9?style=flat-square&logo=greensock&logoColor=white)
+
+**BACKEND**
+
+![Node.js](https://img.shields.io/badge/Node.js-4C1D95?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-3B0764?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5B21B6?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3B0764?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-4C1D95?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5B21B6?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-4C1D95?style=flat-square&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3B0764?style=flat-square&logo=php&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-6D28D9?style=flat-square&logo=socket.io&logoColor=white)
+
+**DATABASE & CLOUD**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4C1D95?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3B0764?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-5B21B6?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=flat-square&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-3B0764?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4C1D95?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-3B0764?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-5B21B6?style=flat-square&logo=netlify&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-6D28D9?style=flat-square&logo=cloudinary&logoColor=white)
+
+**AI / ML & DATA SCIENCE**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4C1D95?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B0764?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-6D28D9?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-5B21B6?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4C1D95?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-3B0764?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-6D28D9?style=flat-square&logo=opencv&logoColor=white)
+
+**TOOLS & DEVOPS**
+
+![Git](https://img.shields.io/badge/Git-4C1D95?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3B0764?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-5B21B6?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6D28D9?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-4C1D95?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-3B0764?style=flat-square&logo=json-web-tokens&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-5B21B6?style=flat-square&logo=apache&logoColor=white)
+
+**DESIGN & CREATIVE**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-4C1D95?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-3B0764?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-6D28D9?style=flat-square&logo=blender&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-5B21B6?style=flat-square&logo=autodesk&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-4C1D95?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## `05` &nbsp; FEATURED PROJECTS &nbsp;&nbsp;<sub>`~/05-projects`</sub>
+
+> Complete catalogue → **[portfolio-p1zu.onrender.com](https://portfolio-p1zu.onrender.com/)**
+
+**01 / NUMBER GUESSING GAME**
+<br/>
+Full-stack game platform with authenticated sessions, a persistent leaderboard and AI-assisted hint generation.
+<br/>
+`REACT · FLASK · MONGODB · JWT` &nbsp;—&nbsp; [Live](https://numberguessingversion2-1.onrender.com/)
+
+---
+
+**02 / ANIME STREET STYLE**
+<br/>
+Anime-inspired commerce storefront driven by dynamic product APIs and Context API state management.
+<br/>
+`REACT · VITE · TAILWIND · BOOTSTRAP` &nbsp;—&nbsp; [Live](https://animestreetstyle.onrender.com/)
+
+---
+
+**03 / TOURIST & TRAVELLISM**
+<br/>
+AI travel planning platform with JWT authentication, Gemini-generated itineraries and Cloudinary media pipeline.
+<br/>
+`REACT · PHP · MONGODB · GEMINI AI` &nbsp;—&nbsp; [Live](https://touristandtravellismfrontendversiontwo.onrender.com/)
+
+---
+
+**04 / REALTIME CHAT APPLICATION**
+<br/>
+Production-grade WebSocket messaging with presence, media uploads and Zustand-driven client state.
+<br/>
+`MERN · SOCKET.IO · ZUSTAND · JWT` &nbsp;—&nbsp; [Live](https://chatty-m2s3.onrender.com/)
+
+---
+
+**05 / AI VOICE ASSISTANT**
+<br/>
+Desktop assistant combining face authentication, speech recognition and a native-feel GUI layer.
+<br/>
+`PYTHON · GEMINI API · EEL` &nbsp;—&nbsp; [Demo](https://www.youtube.com/watch?v=ZeyRsR7yOzI)
+
+---
+
+**06 / ACNE DETECTION (MACHINE LEARNING)**
+<br/>
+Classification model grading mild, moderate and severe cases, served through a Flask web interface.
+<br/>
+`PYTHON · FLASK · SCIKIT-LEARN` &nbsp;—&nbsp; [Live](https://acne-app-detector-using-machine-learning-ye4e.onrender.com/)
+
+---
+
+**07 / PERSONAL PORTFOLIO**
+<br/>
+Personal site with theme switching, motion-led transitions and integrated contact delivery.
+<br/>
+`HTML · CSS · JAVASCRIPT` &nbsp;—&nbsp; [Live](https://portfolio-p1zu.onrender.com/)
+
+---
+
+## `06` &nbsp; GITHUB ANALYTICS &nbsp;&nbsp;<sub>`~/06-telemetry`</sub>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PAMARTHILVSIVANAGESWARARAO&show_icons=true&hide_border=true&bg_color=0D0417&title_color=A78BFA&text_color=C4B5FD&icon_color=7C3AED&ring_color=8B5CF6" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMARTHILVSIVANAGESWARARAO&layout=compact&hide_border=true&bg_color=0D0417&title_color=A78BFA&text_color=C4B5FD" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAMARTHILVSIVANAGESWARARAO&hide_border=true&background=0D0417&stroke=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PAMARTHILVSIVANAGESWARARAO&hide_border=true&bg_color=0D0417&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95" alt="Contribution activity graph" width="98%" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1033,100:4C1D95&height=110&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PAMARTHILVSIVANAGESWARARAO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 
-<sub><font color="#5B21B6">Pamarthi Leela Venkata Siva Nageswararao · Kurellgudem, Andhra Pradesh, India</font></sub>
+</div>
+
+---
+
+## `07` &nbsp; EDUCATION &nbsp;&nbsp;<sub>`~/07-education`</sub>
+
+```
+Sri Vasavi Engineering College, Tadepalligudem
+B.Tech · Computer Science · 2024 – 2027         CGPA  : 8.18    ██████████░
+
+Sir C R Reddy Polytechnic, Eluru
+Diploma in Computer Science · 2021 – 2024       SCORE : 73.3%   ███████░░░░
+
+Z.P.H.S Kurellagudem
+SSC · 2020 – 2021                               GPA   : 9.7     █████████░░
+```
+
+---
+
+## `08` &nbsp; EXPERIENCE &nbsp;&nbsp;<sub>`~/08-route`</sub>
+
+**2023 – 2024 &nbsp;·&nbsp; My Access Private Limited — Bhimavaram**
 <br/>
-<sub><em><font color="#7C3AED">"Code is like humor. When you have to explain it, it's bad." — Cory House</font></em></sub>
+*Trainee, Python Full Stack Development · November 2023 – April 2024*
+
+- Completed an intensive Python full-stack programme spanning frontend, backend and database fundamentals.
+- Built a **Spam Email Detection** model with Scikit-learn, Pandas and NumPy, evaluated end to end.
+- Earned the course completion certificate following successful project review.
+
+---
+
+## `09` &nbsp; CURRENT OBJECTIVES &nbsp;&nbsp;<sub>`~/09-goals`</sub>
+
+- Designing production-ready microservice architectures.
+- Deepening expertise in advanced system design patterns.
+- Exploring Web3 and blockchain infrastructure.
+- Contributing consistently to open-source projects.
+- **Available for hire — full-stack, API and machine-learning engagements.**
+
+---
+
+## `10` &nbsp; CONTACT &nbsp;&nbsp;<sub>`~/10-connect`</sub>
+
+<div align="center">
+
+**Always open to substantive conversations and collaboration.**
+
+[![Email](https://img.shields.io/badge/Email-pamarthisiva144@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamarthisiva144@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva_Nagu-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-nagu-5b8279381)
+<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-p1zu.onrender.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-sivanagu__origin__1206-4C1D95?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sivanagu_origin_1206)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=8B5CF6&center=true&vCenter=true&width=620&lines=STATUS+%E2%80%94+BUILDING;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%E2%80%94+Cory+House" alt="Status" />
+
+<sub>Crafted by **Siva Nagu** · Kurellgudem, Andhra Pradesh, India · © 2026</sub>
 
 </div>
