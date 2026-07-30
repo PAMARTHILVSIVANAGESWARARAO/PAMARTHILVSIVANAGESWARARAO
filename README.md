@@ -258,8 +258,6 @@ Personal site with theme switching, motion-led transitions and integrated contac
 
 <br><br>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy-git-masterryx.vercel.app/?username=PAMARTHILVSIVANAGESWARARAO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
