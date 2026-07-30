@@ -21,13 +21,79 @@
 
 <br/><br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siva_Nagu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-nagu-5b8279381)
-[![Gmail](https://img.shields.io/badge/Gmail-pamarthisiva144-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamarthisiva144@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-p1zu.onrender.com/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-5B21B6?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32143651/siva-028-cm-60)
-[![Instagram](https://img.shields.io/badge/Instagram-sivanagu_origin_1206-4C1D95?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sivanagu_origin_1206)
-[![Phone](https://img.shields.io/badge/📞_+91_9381644896-Call_Me-3B0764?style=for-the-badge)](tel:+919381644896)
+<div style="width:100%; max-width:900px; margin:auto; border:1px solid #D8B4FE; border-radius:10px; overflow:hidden; font-family:Arial, sans-serif;">
+
+    <table style="width:100%; border-collapse:collapse; text-align:left;">
+
+        <!-- Header -->
+        <tr style="background:#7C3AED; color:white;">
+            <th style="padding:14px; border:1px solid #A855F7;">Platform</th>
+            <th style="padding:14px; border:1px solid #A855F7;">Badge</th>
+        </tr>
+
+        <!-- LinkedIn -->
+        <tr style="background:#F3E8FF;">
+            <td style="padding:12px; border:1px solid #D8B4FE; font-weight:bold;">LinkedIn</td>
+            <td style="padding:12px; border:1px solid #D8B4FE;">
+                <a href="https://www.linkedin.com/in/siva-nagu-5b8279381">
+                    <img src="https://img.shields.io/badge/LinkedIn-Siva_Nagu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+                </a>
+            </td>
+        </tr>
+
+        <!-- Gmail -->
+        <tr style="background:#FAF5FF;">
+            <td style="padding:12px; border:1px solid #D8B4FE; font-weight:bold;">Gmail</td>
+            <td style="padding:12px; border:1px solid #D8B4FE;">
+                <a href="mailto:pamarthisiva144@gmail.com">
+                    <img src="https://img.shields.io/badge/Gmail-pamarthisiva144-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+                </a>
+            </td>
+        </tr>
+
+        <!-- Portfolio -->
+        <tr style="background:#F3E8FF;">
+            <td style="padding:12px; border:1px solid #D8B4FE; font-weight:bold;">Portfolio</td>
+            <td style="padding:12px; border:1px solid #D8B4FE;">
+                <a href="https://portfolio-p1zu.onrender.com/">
+                    <img src="https://img.shields.io/badge/Portfolio-Live_Site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+                </a>
+            </td>
+        </tr>
+
+        <!-- Stack Overflow -->
+        <tr style="background:#FAF5FF;">
+            <td style="padding:12px; border:1px solid #D8B4FE; font-weight:bold;">Stack Overflow</td>
+            <td style="padding:12px; border:1px solid #D8B4FE;">
+                <a href="https://stackoverflow.com/users/32143651/siva-028-cm-60">
+                    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-5B21B6?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+                </a>
+            </td>
+        </tr>
+
+        <!-- Instagram -->
+        <tr style="background:#F3E8FF;">
+            <td style="padding:12px; border:1px solid #D8B4FE; font-weight:bold;">Instagram</td>
+            <td style="padding:12px; border:1px solid #D8B4FE;">
+                <a href="https://www.instagram.com/sivanagu_origin_1206">
+                    <img src="https://img.shields.io/badge/Instagram-sivanagu_origin_1206-4C1D95?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+                </a>
+            </td>
+        </tr>
+
+        <!-- Phone -->
+        <tr style="background:#FAF5FF;">
+            <td style="padding:12px; border:1px solid #D8B4FE; font-weight:bold;">Phone</td>
+            <td style="padding:12px; border:1px solid #D8B4FE;">
+                <a href="tel:+919381644896">
+                    <img src="https://img.shields.io/badge/📞_+91_9381644896-Call_Me-3B0764?style=for-the-badge" alt="Phone">
+                </a>
+            </td>
+        </tr>
+
+    </table>
+
+</div>
 
 <br/>
 
