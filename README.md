@@ -237,6 +237,15 @@ Personal site with theme switching, motion-led transitions and integrated contac
 
 ---
 
+**08 / AKATSUKI REPORT**
+
+<br/>
+Full-stack anime-inspired news platform featuring AI-powered news rewriting, secure authentication, responsive UI, and immersive Naruto-themed experience.
+<br/>
+`JAVA · SPRING BOOT · REACT · MYSQL · TAILWIND CSS · GROQ AI · JSOUP · JWT`  &nbsp;—&nbsp; [Demo](https://lnkd.in/p/dATdDBTw)
+
+---
+
 ## `06` &nbsp; GITHUB ANALYTICS &nbsp;&nbsp;<sub>`~/06-telemetry`</sub>
 
 <div align="center">
